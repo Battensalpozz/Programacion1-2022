@@ -5,7 +5,7 @@ public class Matriz {
     String opcion;
     int xTam=4;
     int yTam =4;
-    int [][] cuadroMatricial = new int[xTam][yTam];git s
+    int [][] cuadroMatricial = new int[xTam][yTam];
     int data;
     int sumaFila =0;
     int sumaColumna = 0;
